@@ -24,4 +24,4 @@ A neural network was defined having in mind this is a regression problem:
 
 LGBM machine learning model was attempted, but it perform poorly, especially in computation time. Score from test set was 1.558 and since the model can't use further trees (because it increases computation time directly with the amount of batches trained) this solution was abandoned. 
 
-[](https://i.greatplainsparanormal.com/images/010/image-29410-8-j.webp/600/600)
+![](https://i.greatplainsparanormal.com/images/010/image-29410-8-j.webp/600/600)

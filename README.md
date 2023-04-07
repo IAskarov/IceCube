@@ -13,6 +13,7 @@ By making the process faster and more precise, you'll help improve the reconstru
 
 # EDA
 
+Analyzed the data of several files. More details can be found here [icecube-neutrinos-in-deep-ice-eda](https://github.com/IAskarov/IceCube/blob/master/icecube-neutrinos-in-deep-ice-eda.ipynb) or on [Kaggle](https://www.kaggle.com/code/ilnuraskarov/icecube-neutrinos-in-deep-ice-eda?scriptVersionId=124947435).
 
 
 # Model
@@ -23,5 +24,4 @@ A neural network was defined having in mind this is a regression problem:
  - ADAM as optimizer
 
 LGBM machine learning model was attempted, but it perform poorly, especially in computation time. Score from test set was 1.558 and since the model can't use further trees (because it increases computation time directly with the amount of batches trained) this solution was abandoned. 
-
-![](https://i.greatplainsparanormal.com/images/010/image-29410-8-j.webp)
+More details can be found here [icecube-nn]() or on [Kaggle](https://www.kaggle.com/code/ilnuraskarov/icecube-nn?scriptVersionId=124952276).

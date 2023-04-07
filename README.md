@@ -24,4 +24,4 @@ A neural network was defined having in mind this is a regression problem:
  - ADAM as optimizer
 
 LGBM machine learning model was attempted, but it perform poorly, especially in computation time. Score from test set was 1.558 and since the model can't use further trees (because it increases computation time directly with the amount of batches trained) this solution was abandoned. 
-More details can be found here [icecube-nn]() or on [Kaggle](https://www.kaggle.com/code/ilnuraskarov/icecube-nn?scriptVersionId=124952276).
+More details can be found here [icecube-nn](https://github.com/IAskarov/IceCube/blob/master/icecube-nn.ipynb) or on [Kaggle](https://www.kaggle.com/code/ilnuraskarov/icecube-nn?scriptVersionId=124952276).

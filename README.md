@@ -16,6 +16,7 @@ By making the process faster and more precise, you'll help improve the reconstru
 Analyzed the data of several files. More details can be found here [icecube-neutrinos-in-deep-ice-eda](https://github.com/IAskarov/IceCube/blob/master/icecube-neutrinos-in-deep-ice-eda.ipynb) or on [Kaggle](https://www.kaggle.com/code/ilnuraskarov/icecube-neutrinos-in-deep-ice-eda?scriptVersionId=124947435).
 
 
+
 # Model
 A neural network was defined having in mind this is a regression problem:
  - 5  linear layers
